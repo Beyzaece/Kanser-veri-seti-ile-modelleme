@@ -1,0 +1,11 @@
+Model Information:
+* title:	ANATOMI TUBUH MANUSIA
+* source:	https://sketchfab.com/3d-models/anatomi-tubuh-manusia-85f140bfcb6f4ef8800630ddef9e2f66
+* author:	han (https://sketchfab.com/hannyalifia0412)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ANATOMI TUBUH MANUSIA" (https://sketchfab.com/3d-models/anatomi-tubuh-manusia-85f140bfcb6f4ef8800630ddef9e2f66) by han (https://sketchfab.com/hannyalifia0412) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,22 @@
+{
+  "BMI": 0.051803,
+  "Smoking": 0.107764,
+  "AlcoholDrinking": 0.032080,
+  "Stroke": 0.196835,
+  "PhysicalHealth": 0.170721,
+  "MentalHealth": 0.028591,
+  "DiffWalking": 0.201258,
+  "Sex": 0.070040,
+  "AgeCategory": 0.233432,
+  "Diabetic": 0.168553,
+  "PhysicalActivity": 0.100030,
+  "GenHealth": 0.011062,
+  "SleepTime": 0.008327,
+  "Asthma": 0.041444,
+  "KidneyDisease": 0.145197,
+  "SkinCancer": 0.093317,
+ 
+ 
+  "Race_4": 0.003039
+ 
+}

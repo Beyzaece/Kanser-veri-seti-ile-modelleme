@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  overflow: hidden;
+ 
+}
+
+#container3D {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#factorsContainer {
+  position: absolute;
+ 
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.factor {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.factor.visible {
+  opacity: 1;
+}
